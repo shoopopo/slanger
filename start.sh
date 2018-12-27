@@ -1,0 +1,1 @@
+slanger --app_key 765ec374ae0a69f4ce44 --secret synco291 -r redis://10.120.11.190:6379&
